@@ -1,0 +1,5 @@
+payment_method,transaction_count,pct_of_transactions,total_gmv_usd,captured_gmv_usd,chargeback_count,failed_count,success_rate_pct,avg_risk_score
+Card,13,43.33,52972.0,34283.0,2,3,61.54,61.31
+UPI,9,30.0,34397.5,28527.0,1,2,66.67,62.44
+NetBanking,3,10.0,15306.0,11709.0,0,1,66.67,62.67
+Wallet,5,16.67,13404.5,7836.5,1,1,60.0,54.6

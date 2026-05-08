@@ -1,0 +1,4 @@
+gateway_region,transaction_count,total_gmv_usd,captured_gmv_usd,success_rate_pct,chargeback_ratio_pct,avg_risk_score,high_value_count,high_risk_count,chargeback_count,failed_count
+APAC,22,82594.0,63415.5,68.18,9.09,65.27,5,7,2,5
+EU,4,18886.0,8640.0,50.0,25.0,47.25,1,1,1,1
+US,4,14600.0,10300.0,50.0,25.0,48.75,1,1,1,1
