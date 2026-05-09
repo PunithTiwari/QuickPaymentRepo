@@ -1,0 +1,7 @@
+transaction_id,transaction_date,merchant_id,amount_usd,status,payment_method,reconciliation_issue,amount_gateway,amount_diff,status_gateway
+R002,2026-03-01,M002,850.0,success,Card,amount_mismatch,900.0,-50.0,
+R008,2026-03-04,M001,640.0,success,Card,amount_mismatch,600.0,40.0,
+R004,2026-03-02,M003,2100.0,success,Card,missing_in_gateway,,,
+R010,2026-03-05,M004,2500.0,success,Wallet,missing_in_gateway,,,
+R011,2026-03-05,M003,1800.0,success,Card,missing_in_ledger,,,
+R005,2026-03-03,M004,7200.0,success,Card,status_mismatch,,,failed
